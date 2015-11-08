@@ -1,0 +1,23 @@
+name: MadeInDetroit
+favicon: null
+layout_spectrum: 0.554170340532437
+typography_spectrum: 0.9305543946102262
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5710074794478714
+  lightness: 0.8601271156221628
+  saturation: 0.3156749920453876
+  rhythmicContrast: 0.6006567804142833
+purpose: []
